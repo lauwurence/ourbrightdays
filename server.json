@@ -1,16 +1,6 @@
 {
 "id" : 4,
-"link" : "https://www.patreon.com/keyclap",
-"last_version" : "0.1.3",
-"last_date" : "Jul 15, 2023",
-"next_date" : ". . .",
 "release_timestamp" : 1753990109,
-"early_access" : true,
-"early_access_links" : {
-    "patreon" : "https://www.patreon.com/keyclap",
-    "boosty" : "https://boosty.to/keyclap"
-},
-
 "posts" : {
 
 "2" :
