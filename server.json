@@ -13,6 +13,26 @@
 
 "posts" : {
 
+"2" :
+{
+    "type" : [ "RELEASE", "#eb4034" ],
+    "date" : "July 30, 2025",
+    "author" : "LaUwUrence",
+    "label" : {
+        "russian" : "OBD [[0.2.0a]\n{size=-4}Ну, пора :man_dance:",
+        "english" : "OBD [[0.2.0a]\n{size=-4}:"
+    },
+    "text" : {
+        "russian" : "Давно мы не виделись.",
+        "english" : "That's it, OBD is no longer a game for kids! Yaaay!"
+    },
+    "image" : "https://www.dropbox.com/s/l6av8j354qmborq/003.webp?raw=1",
+    "link" : {
+        "russian" : "https://boosty.to/keyclap",
+        "english" : "https://www.patreon.com/keyclap"
+    }
+},
+
 "1" :
 {
     "type" : [ "RELEASE", "#eb4034" ],
@@ -20,7 +40,7 @@
     "author" : "LaUwUrence",
     "label" : {
         "russian" : "OBD [[0.1.3a]\n{size=-4}Слышите скрежет металла? Это я обновление выкатываю :cringe:",
-        "english" : "OBD [[0.1.3a]\n{size=-4}LET'S GO!!"
+        "english" : "OBD [[0.1.3a]\n{size=-4}LET'S GO!! :cringe:"
     },
     "text" : {
         "russian" : "Ну всё, OBD это вам больше не детская игра!",
