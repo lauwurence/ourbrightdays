@@ -1,0 +1,62 @@
+{
+"id" : 4,
+"link" : "https://www.patreon.com/keyclap",
+"last_version" : "0.1.3",
+"last_date" : "Jul 15, 2023",
+"next_date" : ". . .",
+"early_access" : true,
+"early_access_links" : {
+    "patreon" : "https://www.patreon.com/keyclap",
+    "boosty" : "https://boosty.to/keyclap"
+},
+
+"posts" : {
+
+"1" :
+{
+    "type" : [ "RELEASE", "#eb4034" ],
+    "date" : "June 21, 2023",
+    "author" : "LaUwUrence",
+    "label" :
+    {
+    "russian" : "OBD [[0.1.3a] :smile:\n{size=-4}Слышите скрежет металла? Это я обновление выкатываю :smile:",
+    "english" : "OBD [[0.1.3a] \n{size=-4}LET'S GO!!"
+    },
+    "text" :
+    {
+    "russian" : "Ну всё, OBD это вам больше не детская игра!",
+    "english" : "That's it, OBD is no longer a game for kids! Yaaay!"
+    },
+    "image" : "https://www.dropbox.com/s/l6av8j354qmborq/003.webp?raw=1",
+    "link" : "test"
+},
+
+"0" :
+{
+    "type" : [ "RELEASE", "#eb4034" ],
+    "date" : "December 26, 2022",
+    "author" : "LaUwUrence",
+    "label" :
+    {
+    "russian" : "OBD [[0.1.2a] {image=emoji_congrats}\n{size=-4}Послепраздничный Релиз",
+    "english" : "OBD [[0.1.2a] {image=emoji_congrats}\n{size=-4}After Christmas Party Release"
+    },
+    "text" :
+    {
+    "russian" : "Я сделал это! Не успел к дедлайну, но я блин сделал! Это был пипец какой огромный путь до первого полноценного обновления :D",
+    "english" : "I did it! I broke the deadline but I freaking did it! It's been a huge way to get to this release! Yaaarrhhhg >:D"
+    },
+    "image" : "https://www.dropbox.com/s/xonh2l95fqw2pv1/002.webp?raw=1",
+    "link" : "test"
+}
+
+},
+
+"to_eval" : {
+
+    "attr" : {
+    }
+
+}
+
+}
