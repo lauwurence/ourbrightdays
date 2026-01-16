@@ -3,7 +3,7 @@
 "release_timestamp" : 1768687798,
 "posts" : {
 
-"4" :
+"5" :
 {
     "type" : [ "REPORT", "#eb4034" ],
     "date" : "January 14, 2026",
@@ -13,8 +13,8 @@
         "english" : "Report #18"
     },
     "text" : {
-        "russian" : "Открытый мир, шейдеры, перевод надписей, исправления и т.д.",
-        "english" : "Open World, Shaders, Translation of Inscriptions, Fixes, etc."
+        "russian" : "Темы: Открытый мир, шейдеры, перевод надписей, исправления и т.д.",
+        "english" : "Topics: Open World, Shaders, Translation of Inscriptions, Fixes, etc."
     },
     "image" : "https://raw.githubusercontent.com/lauwurence/ourbrightdays/refs/heads/main/images/005.jpg",
     "link" : {
@@ -23,7 +23,7 @@
     }
 },
 
-"3" :
+"4" :
 {
     "type" : [ "REPORT", "#eb4034" ],
     "date" : "December 25, 2025",
@@ -43,6 +43,25 @@
     }
 },
 
+"3" :
+{
+    "type" : [ "REPORT", "#eb4034" ],
+    "date" : "July 17, 2025",
+    "author" : "keyclap",
+    "label" : {
+        "russian" : "Отчёт #16",
+        "english" : "Report #16"
+    },
+    "text" : {
+        "russian" : "Темы: Анимации и захват движения, симуляция тела, одежды, волос, подготовка персонажей, панорама, проблема мосек.",
+        "english" : "Topics: Animations and MoCap, Body Simulation, Clothes Simulation, Hair Sumulation, Character Preparation, Panorama, Facial Expressions Problem."
+    },
+    "image" : "https://raw.githubusercontent.com/lauwurence/ourbrightdays/refs/heads/main/images/007.jpg",
+    "link" : {
+        "russian" : "https://boosty.to/keyclap/posts/af5a68c4-a63d-4956-b0d4-ae2b3b74d781",
+        "english" : "https://patreon.com/posts/1343574763"
+    }
+},
 
 "2" :
 {
