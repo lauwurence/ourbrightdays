@@ -7,10 +7,10 @@
 {
     "type" : [ "REPORT", "#eb4034" ],
     "date" : "January 14, 2026",
-    "author" : "LaUwUrence",
+    "author" : "keyclap",
     "label" : {
-        "russian" : "Отчёт #18\n{size=-4}:",
-        "english" : "Report #18\n{size=-4}"
+        "russian" : "Отчёт #18",
+        "english" : "Report #18"
     },
     "text" : {
         "russian" : "",
@@ -27,10 +27,10 @@
 {
     "type" : [ "RELEASE", "#eb4034" ],
     "date" : "July 30, 2025",
-    "author" : "LaUwUrence",
+    "author" : "keyclap",
     "label" : {
-        "russian" : "OBD v0.2.0\n{size=-4}Ну, пора :man_dance:",
-        "english" : "OBD v0.2.0\n{size=-4}"
+        "russian" : "OBD v0.2.0",
+        "english" : "OBD v0.2.0"
     },
     "text" : {
         "russian" : "Давно мы не виделись.",
@@ -47,7 +47,7 @@
 {
     "type" : [ "RELEASE", "#eb4034" ],
     "date" : "June 21, 2023",
-    "author" : "LaUwUrence",
+    "author" : "keyclap",
     "label" : {
         "russian" : "OBD v0.1.3\n{size=-4}Слышите скрежет металла? Это я обновление выкатываю :cringe:",
         "english" : "OBD v0.1.3\n{size=-4}LET'S GO!! :cringe:"
@@ -67,7 +67,7 @@
 {
     "type" : [ "RELEASE", "#eb4034" ],
     "date" : "December 26, 2022",
-    "author" : "LaUwUrence",
+    "author" : "keyclap",
     "label" : {
         "russian" : "OBD v0.1.2\n{size=-4}Послепраздничный Релиз",
         "english" : "OBD v0.1.2\n{size=-4}After Christmas Party Release"
