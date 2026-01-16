@@ -1,7 +1,27 @@
 {
-"id" : 4,
-"release_timestamp" : 1761441963,
+"id" : 5,
+"release_timestamp" : 1768687798,
 "posts" : {
+
+"3" :
+{
+    "type" : [ "REPORT", "#eb4034" ],
+    "date" : "January 14, 2026",
+    "author" : "LaUwUrence",
+    "label" : {
+        "russian" : "Отчёт #18\n{size=-4}:",
+        "english" : "Report #18\n{size=-4}"
+    },
+    "text" : {
+        "russian" : "",
+        "english" : ""
+    },
+    "image" : "https://raw.githubusercontent.com/lauwurence/ourbrightdays/refs/heads/main/images/005.jpg",
+    "link" : {
+        "russian" : "https://boosty.to/keyclap",
+        "english" : "https://www.patreon.com/keyclap"
+    }
+},
 
 "2" :
 {
