@@ -59,7 +59,7 @@
     "image" : "https://raw.githubusercontent.com/lauwurence/ourbrightdays/refs/heads/main/images/007.jpg",
     "link" : {
         "russian" : "https://boosty.to/keyclap/posts/af5a68c4-a63d-4956-b0d4-ae2b3b74d781",
-        "english" : "https://patreon.com/posts/1343574763"
+        "english" : "https://patreon.com/posts/134357476"
     }
 },
 
@@ -82,46 +82,6 @@
         "english" : "https://www.patreon.com/keyclap"
     }
 }
-
-// "1" :
-// {
-//     "type" : [ "RELEASE", "#eb4034" ],
-//     "date" : "June 21, 2023",
-//     "author" : "keyclap",
-//     "label" : {
-//         "russian" : "OBD v0.1.3\n{size=-4}Слышите скрежет металла? Это я обновление выкатываю :cringe:",
-//         "english" : "OBD v0.1.3\n{size=-4}LET'S GO!! :cringe:"
-//     },
-//     "text" : {
-//         "russian" : "Ну всё, OBD это вам больше не детская игра!",
-//         "english" : "That's it, OBD is no longer a game for kids! Yaaay!"
-//     },
-//     "image" : "https://raw.githubusercontent.com/lauwurence/ourbrightdays/refs/heads/main/images/003.webp",
-//     "link" : {
-//         "russian" : "https://boosty.to/keyclap",
-//         "english" : "https://www.patreon.com/keyclap"
-//     }
-// },
-
-// "0" :
-// {
-//     "type" : [ "RELEASE", "#eb4034" ],
-//     "date" : "December 26, 2022",
-//     "author" : "keyclap",
-//     "label" : {
-//         "russian" : "OBD v0.1.2\n{size=-4}Послепраздничный Релиз",
-//         "english" : "OBD v0.1.2\n{size=-4}After Christmas Party Release"
-//     },
-//     "text" : {
-//         "russian" : "Я сделал это! Не успел к дедлайну, но я блин сделал! Это был пипец какой огромный путь до первого полноценного обновления :laugh:",
-//         "english" : "I did it! I broke the deadline but I freaking did it! It's been a huge way to get to this release! Yaaarrhhhg :laugh:"
-//     },
-//     "image" : "https://raw.githubusercontent.com/lauwurence/ourbrightdays/refs/heads/main/images/002.webp",
-//     "link" : {
-//         "russian" : "https://boosty.to/keyclap",
-//         "english" : "https://www.patreon.com/keyclap"
-//     }
-// }
 
 }
 
